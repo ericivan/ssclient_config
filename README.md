@@ -1,6 +1,6 @@
 # Shadowsocks Client Config in Centos
 
-``shell
+```shell
 yum install python-pip
 
 pip install shadowsocks
